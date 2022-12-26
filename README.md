@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sabuzxide/Sabuzxide/blob/main/git_up2.gif)
 <h1 align="center">Hi 👋, I'm Sabuz Ahmed</h1>
 <h3 align="center">CSE Student from Bangladesh</h3>
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/images/ae63cb4bbaa8b8c57545aaa043b42b66/tenor.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabuzxide&label=Profile%20views&color=0e75b6&style=flat" alt="sabuzxide" /> </p>
 
 - 🔭 I’m currently working on **Mobile development**
