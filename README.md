@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sabuz.ahmed.108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabuz.ahmed.108" height="30" width="40" /></a>
+<a href="https://x.com/SabuzAhmed108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabuz.ahmed.108" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sabuz-ahmed-b9442621b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabuz-ahmed-b9442621b" height="30" width="40" /></a>
 <a href="https://fb.com/sabuz.ahmed.108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabuz.ahmed.108" height="30" width="40" /></a>
 <a href="https://instagram.com/i_m_sabuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_sabuz" height="30" width="40" /></a>
