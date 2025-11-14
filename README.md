@@ -21,14 +21,11 @@
 <p align="left">
 <a href="https://twitter.com/sabuz.ahmed.108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabuz.ahmed.108" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sabuz-ahmed-b9442621b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabuz-ahmed-b9442621b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20864570/sabuz-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20864570/sabuz-ahmed" height="30" width="40" /></a>
 <a href="https://fb.com/sabuz.ahmed.108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabuz.ahmed.108" height="30" width="40" /></a>
 <a href="https://instagram.com/i_m_sabuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_sabuz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sabuz_ahmed_108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sabuz_ahmed_108" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/monoxide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="monoxide" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sabuzxide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sabuzxide" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sabuzahmed108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sabuzahmed108" height="30" width="40" /></a>
 <a href="https://discord.gg/762614146352545802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="762614146352545802" height="30" width="40" /></a>
+<a href="https://sabuzahmed.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sabuzahmed.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
